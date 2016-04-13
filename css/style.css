@@ -1,0 +1,36 @@
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+main {
+   flex: 1 0 auto;
+ }
+.nav-wrapper {
+    color: blanchedalmond;
+}
+#Loging{
+    float: right;
+    position: absolute;
+    right: 15px;
+    word-spacing: 15px;
+}
+#Loging a:hover{
+    color: rgb(189, 195, 199);
+    transition: all 1s;
+    font-size: 18px;
+}
+#Elements{
+
+}
+#Login{
+
+}
+#Signup{
+
+}
+#Logot {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+}
